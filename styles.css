@@ -32,3 +32,21 @@ body {
     color: #6b705c;
     font-size: 14px;
 }
+
+footer {
+    text-align: center;
+    padding: 15px;
+    font: 11px 'Inter', sans-serif;
+    letter-spacing: 0.5px;
+    color: #475569;
+}
+
+footer .footer-author {
+    color: #006dff;
+    text-decoration: none;
+}
+
+footer .footer-legalize {
+    color: #ff0000;
+    text-decoration: none;
+}
