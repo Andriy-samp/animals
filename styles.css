@@ -41,12 +41,12 @@ footer {
     color: #475569;
 }
 
-footer .footer-author {
+footer a.footer-author {
     color: #006dff;
     text-decoration: none;
 }
 
-footer .footer-legalize {
+footer a.footer-legalize {
     color: #ff0000;
     text-decoration: none;
 }
